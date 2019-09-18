@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_email_canned_message">
+    <sys_email_canned_message action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <body><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut interdum sem felis, eu porta dui varius in. Mauris dui lectus, tincidunt id cursus fermentum, vestibulum nec nisl. Aenean molestie nunc libero, elementum convallis dolor varius at. Duis lorem tortor, sodales at massa quis, gravida molestie sem. Donec ullamcorper sem vitae dui interdum, nec semper magna condimentum. Morbi bibendum dui eu mauris tristique dignissim. Donec elementum magna vitae nisl finibus, quis aliquet neque tempus. Morbi sit amet augue sagittis, tincidunt dui vitae, faucibus nibh. Morbi sit amet augue mauris. Fusce convallis varius sapien a sollicitudin.</p>]]></body>
+        <condition/>
+        <group display_value="NeedIt Users" name="NeedIt Users">9fda279e1bb3330050702f86ec4bcb30</group>
+        <sys_class_name>sys_email_canned_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 17:38:09</sys_created_on>
+        <sys_id>7c64e2981b80001050702f86ec4bcb31</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My test quick message</sys_name>
+        <sys_package display_value="IPLookup" source="x_404592_iplookup">ef0c6d4c1bc0001050702f86ec4bcb46</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">ef0c6d4c1bc0001050702f86ec4bcb46</sys_scope>
+        <sys_update_name>sys_email_canned_message_7c64e2981b80001050702f86ec4bcb31</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-18 17:38:09</sys_updated_on>
+        <table/>
+        <title>My test quick message</title>
+        <user display_value="Abel Tuter">62826bf03710200044e0bfc8bcbe5df1</user>
+    </sys_email_canned_message>
+</record_update>
